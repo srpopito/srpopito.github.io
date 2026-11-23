@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "io.github.srpopito.alvolante",
-        "sha256_cert_fingerprints": ["21:24:6A:55:3B:F4:BA:90:40:44:09:DC:4C:F9:46:2E:51:3D:F6:76:E7:FF:DD:AC:7A:D2:97:E9:B6:9D:45:92"]
+        "package_name": "com.srpopito.driveready",
+        "sha256_cert_fingerprints": ["CE:58:01:2D:C0:32:EE:1B:6C:1E:86:F2:DA:98:FE:8C:E7:B8:56:BD:7F:EF:5E:2D:0F:C8:52:CC:3A:27:5B:A2"]
       }
     }]
